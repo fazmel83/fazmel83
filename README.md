@@ -30,27 +30,27 @@ My goal is to build practical AI-powered solutions that solve real-world busines
 - HTML & CSS
 
 **AI Assistants & Models**
-ChatGPT
-Claude
-Ollama
-Large Language Models (LLMs)
+- ChatGPT
+- Claude
+- Ollama
+- Large Language Models (LLMs)
 
-**AI Application Development*
-Prompt Engineering
-LLM Integration
-Retrieval-Augmented Generation (RAG) – Learning
+**AI Application Development**
+- Prompt Engineering
+- LLM Integration
+- Retrieval-Augmented Generation (RAG) – Learning
 
 **AI Automation & Integration**
-n8n
-Power Automate
-Telegram Bot Integration
-Google Docs API
-OpenAI API – Explored
+- n8n
+- Power Automate
+- Telegram Bot Integration
+- Google Docs API
+- OpenAI API – Explored
 
 **AI Development Environment**
-Jupyter Notebook
-Visual Studio Code
-Docker
+- Jupyter Notebook
+- Visual Studio Code
+- Docker
 
 **Frameworks & Technologies**
 - Flask / FastAPI (learning)
